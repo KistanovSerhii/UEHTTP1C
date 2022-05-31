@@ -69,3 +69,12 @@ http://192.168.171.100:4000/uat/hs/VMDE/Employee/УА00000071
 * Employee	- ВАЖНЫЙ момент, это слово которое прописанно в шаблоне реквизита "http"
 , а точней там прописанна строка "/Employee/{Code}" (значит что ожидает параметр "Code")
 ТАМ НЕЛЬЗЯ ОСТАВЛЯТЬ /* ТАК КАК ВСЕ ЗАПРОСЫ ДАЛЬШЕ ЧЕМ ЭТОТ ЗАПРОС НЕ УЙДУТ!!!
+
+
+![HTTPUrlFormula](https://user-images.githubusercontent.com/28355711/171154776-0e6d7955-ce9d-4954-a049-ca1f8e92fffa.png)
+
+![HTTPUrlFormula2](https://user-images.githubusercontent.com/28355711/171154798-0a2e4df3-0375-4079-8c42-18269eb86946.png)
+
+![HTTPРазрешениеНаИспользованиеОбработчикаHTTP_АТакжеНеобходимоДатьРазрешениеЧтениеЗаписьНаОбъектыСКоторымиРаботаем](https://user-images.githubusercontent.com/28355711/171154871-1c7de007-fe44-4c4d-9710-d56cde2869c9.png)
+
+![HTTPПубликацияСервисаКоторыйСозданВРасширении](https://user-images.githubusercontent.com/28355711/171154887-5447aac5-c75b-464e-8e9c-1bccc08d4164.PNG)
